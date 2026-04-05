@@ -1,5 +1,11 @@
-Bring Glass ui 
-improve overall ui 
-bug fixes 
-brought video analyzer 
-and fixed voice mode 
+New Features:
+
+    login Setup
+    updated UI
+    Cloud Storage support
+
+Bug Fixes:
+
+    Voice mode working
+    optimised app
+    Editor fade away fixed
