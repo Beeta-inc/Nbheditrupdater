@@ -2,10 +2,12 @@ New Features:
 
     login Setup
     updated UI
-    Cloud Storage support
+    Cloud Storage support in gdrive
+    collaborative session
 
 Bug Fixes:
 
     Voice mode working
     optimised app
     Editor fade away fixed
+    ui fixes
