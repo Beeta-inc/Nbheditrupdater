@@ -1,1 +1,1 @@
-https://github.com/Beeta-inc/nbheditor.apps.beeta.com/releases/download/v3.1.0android/NBHEditor-v3.1.0-release.apk
+https://github.com/Beeta-inc/nbheditor.apps.beeta.com/releases/download/v4.0.1android/NBHEditor-v4.0.1-release.apk
