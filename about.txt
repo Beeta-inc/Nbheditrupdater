@@ -3,10 +3,10 @@ The latest version of NbhEditor:
 
 New Features:
 
-   collaborative session media player
+   collaborative session better handling 
+   media viewer new features
 
 Bug Fixes:
 
    optimised app
-   Editor fade away fixed
-   Collaborative session lag and crash gix
+   bug fixes
