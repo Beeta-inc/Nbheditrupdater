@@ -3,8 +3,8 @@ The latest version of NbhEditor:
 
 New Features:
 
-   collaborative session better handling 
-   media viewer new features
+   collaborative session joing sound 
+   multiple person writting enhanced
 
 Bug Fixes:
 
