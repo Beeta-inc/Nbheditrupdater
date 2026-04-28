@@ -3,10 +3,18 @@ The latest version of NbhEditor:
 
 New Features:
 
-   collaborative session joing sound 
-   multiple person writting enhanced
+    Rich Text Editor (Markdown/HTML)
 
-Bug Fixes:
+    Smart Font Control
 
-   optimised app
-   bug fixes
+    Fixed Line Numbers
+
+    Rich Text Toggle in Settings
+
+    Text Type Button
+
+    Auto-Formatting
+
+bug fixes
+
+
