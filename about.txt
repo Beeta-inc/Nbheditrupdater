@@ -3,17 +3,7 @@ The latest version of NbhEditor:
 
 New Features:
 
-    Rich Text Editor (Markdown/HTML)
-
-    Smart Font Control
-
-    Fixed Line Numbers
-
-    Rich Text Toggle in Settings
-
-    Text Type Button
-
-    Auto-Formatting
+    more secure collaborative session joining interface
 
 bug fixes
 
