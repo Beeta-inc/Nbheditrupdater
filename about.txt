@@ -3,7 +3,10 @@ The latest version of NbhEditor:
 
 New Features:
 
-    more secure collaborative session joining interface
+    optimisations 
+    video call 
+    print service
+    beeta ai improvement
 
 bug fixes
 
